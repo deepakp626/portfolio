@@ -13,7 +13,7 @@ const ReactJSProject = () => {
   const project = [
     {
       title: "Youtube Clone",
-      image: "../../public/mega_project/youtube.png",
+      image: "/mega_project/youtube.png",
       code: "https://github.com/deepakp626/youtube-clone",
       live: "https://clone-e30a4.web.app/",
       description:
@@ -21,7 +21,7 @@ const ReactJSProject = () => {
     },
     {
       title: "To do Auth with  firebase",
-      image: "../../public/mega_project/to_do.png",
+      image: "/mega_project/to_do.png",
       code: "https://github.com/deepakp626/todo-with-redux-and-auth-with-firebase",
       live: "https://todo-with-redux-auth-with-firebase.netlify.app/",
       description:
@@ -29,8 +29,8 @@ const ReactJSProject = () => {
     },
     {
       title: "Portfolio",
-      image: "../../public/mega_project/portfolio.png",
-      code: "",
+      image: "/mega_project/portfolio.png",
+      code: "/",
       live: "/",
       description: "This is my portfolio created with React-JS and Chakra-UI.",
     },

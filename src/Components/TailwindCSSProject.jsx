@@ -4,19 +4,19 @@ const TailwindCSSProject = () => {
     const project = [
         {
             title: "Rode Clone",
-            image: "../../public/TailwindProjectImage/rode.png",
+            image: "/TailwindProjectImage/rode.png",
             code: "https://github.com/deepakp626/Rode-Clone-With-Tailwind-CSS",
             path: "https://deepakp626.github.io/Rode-Clone-With-Tailwind-CSS/",
           },
         {
             title: "VS code",
-            image: "../../public/TailwindProjectImage/VSCode.png",
+            image: "/TailwindProjectImage/VSCode.png",
             code: "https://github.com/deepakp626/Rode-Clone-With-Tailwind-CSS",
             path: "https://vscode-clone-by-deepak.netlify.app/",
           },
         {
             title: "Real Estate",
-            image: "../../public/TailwindProjectImage/Real_EState.png",
+            image: "/TailwindProjectImage/Real_EState.png",
             code: "https://github.com/deepakp626/Real-Estate-Website-with-TailwindCSS",
             path: "https://realestate-webiste.netlify.app/",
           },

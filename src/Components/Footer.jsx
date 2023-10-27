@@ -7,7 +7,7 @@ const Footer = () => {
         <Flex as={"footer"}  padding={"2rem"} justifyContent={"space-evenly"} alignContent={"center"}
         flexWrap={"wrap"}>
             <VStack   borderLeft={"2px"} borderRight={"2px"} paddingX={"2rem"} >
-                <Avatar   src="../../public/profile/deepak.jpeg"  />
+                <Avatar   src="/profile/deepak.jpeg"  />
                 <Heading fontSize={"1rem"}>Deepak Prajapat</Heading>
                 <Text textAlign={"center"}  fontSize={"1rem"}>Motivation is temporary, but discipline last forever</Text>
             </VStack>

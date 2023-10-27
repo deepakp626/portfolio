@@ -105,7 +105,8 @@ const HeroSection = () => {
           <Image
             width={{ base: "19rem", md: "350px" }}
             height={{ base: "19rem", md: "350px" }}
-            src={"../../public/profile/deepak.jpeg"}
+            src={"/profile/deepak.jpeg"}
+            alt={"image"}
           />
         </Box>
       </Flex>
