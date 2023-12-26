@@ -16,7 +16,7 @@ const ProjectsSlide = () => {
       title: "Youtube Clone",
       image: "/mega_project/youtube.png",
       code: "https://github.com/deepakp626/youtube-clone",
-      live: "https://clone-e30a4.web.app/",
+      live: "https://youtubeclone626.netlify.app/",
       description:
         "In this project, I created a clone of my youtube with the following Technoloyy Like React-JS, Tailwind, React-Reduc and Youtube API  use this youtube clone and enjoy .",
     },
