@@ -3,14 +3,20 @@ import React_JS from "../../public/skills_Icon/icons8-react.svg";
 import tailwind_CSS from "../../public/skills_Icon/icons8-tailwind-css.svg";
 import javascript from "../../public/skills_Icon/javascript.svg";
 import chakra_UI from "../../public/skills_Icon/icons8-chakra-ui.svg";
-// import expressJS from "../../public/skills_Icon/icons8-express-js.svg";
+import expressJS from "../../public/skills_Icon/icons8-express-js.svg";
 import HTML from "../../public/skills_Icon/icons8-html.svg";
 import CSS from "../../public/skills_Icon/icons8-css.svg";
 import Git from "../../public/skills_Icon/icons8-git.svg";
-// import mongoDB from "../../public/skills_Icon/icons8-mongodb.svg";
-// import Node_JS from "../../public/skills_Icon/icons8-nodejs.svg";
+import mongoDB from "../../public/skills_Icon/icons8-mongodb.svg";
+import Node_JS from "../../public/skills_Icon/icons8-nodejs.svg";
+import Material_UI from '../../public/skills_Icon/icons8-material-ui.svg'
+
 const Skills = () => {
   const skills = [
+    { path: mongoDB, skillName: "MongoDB" },
+    { path: Node_JS, skillName: "NodeJS" },
+    { path: expressJS, skillName: "ExpressJS" },
+    { path: Material_UI, skillName: "Materail UI" },
     { path: javascript, skillName: "javascript" },
     { path: React_JS, skillName: "React JS" },
     { path: tailwind_CSS, skillName: "Tailwind CSS" },
